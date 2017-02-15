@@ -3,4 +3,4 @@
 ![CCDC](https://jacenrkohler.github.io/ccdc/CCDC_logo.png)
 
 ![Blue Team](https://img.shields.io/badge/Team-Blue-blue.svg?style=plastic)
-![Active Directory](https://img.shields.io/badge/Service-Active%20Directory-#blue.svg?style=plastic?colorA=00ABF3)
+![Active Directory](https://img.shields.io/badge/Service-Active%20Directory-blue.svg?style=plastic?colorA=00ABF3)
