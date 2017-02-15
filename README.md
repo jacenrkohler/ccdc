@@ -1,4 +1,4 @@
 # Collegiate Cyber Defense Competition (CCDC)
 
-![CCDC](ccdc/CCDC_logo.png)
+![CCDC](https://jacenrkohler.github.io/ccdc/CCDC_logo.png)
 
