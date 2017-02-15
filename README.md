@@ -1,6 +1,6 @@
 # Collegiate Cyber Defense Competition (CCDC)
 
-![CCDC](https://jacenrkohler.github.io/ccdc/CCDC_logo.png)
+![CCDC](https://jacenrkohler.github.io/ccdc/CCDC_logo.png =128x)
 
 ![Blue Team](https://img.shields.io/badge/Team-Blue-0000FF.svg?style=plastic)
 ![Active Directory](https://img.shields.io/badge/Service-Active%20Directory-00ABF3.svg?style=plastic)
