@@ -9,3 +9,4 @@
 ![UNT 2016](https://img.shields.io/badge/Team-UNT%202016-00853E.svg?style=plastic) ![UNT 2017](https://img.shields.io/badge/Team-UNT%202017-00853E.svg?style=plastic)
 
 Reasources to follow the current season.
+Surely you don't expect me to reveal all my secrets to the competition. ;)
